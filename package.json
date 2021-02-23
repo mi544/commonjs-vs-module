@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "start": "printf ----------------\\n\\n && printf \\nCommonJS:\\n\\n && node commonjs-test/index.js && printf \\n\\n----------------\\n\\n && printf \\nModule:\\n\\n && node module-test/index.js && printf ----------------\\n\\n ",
+    "start": "printf ----------------\\n\\n && printf \\nCommonJS:\\n\\n && node commonjs-test/index.js && printf \\n\\n----------------\\n\\n && printf \\nModule:\\n\\n && node module-test/index.js && printf \\n\\n----------------\\n\\n ",
     "start:commonjs": "node commonjs-test/index.js",
     "start:module": "node module-test/index.js"
   }
